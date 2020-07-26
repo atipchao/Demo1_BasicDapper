@@ -1,0 +1,254 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Dapper/2.0.35": {
+        "type": "package",
+        "compile": {
+          "lib/net461/Dapper.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Dapper.dll": {}
+        }
+      },
+      "Dapper.Contrib/2.0.35": {
+        "type": "package",
+        "dependencies": {
+          "Dapper": "2.0.35"
+        },
+        "frameworkAssemblies": [
+          "Microsoft.CSharp"
+        ],
+        "compile": {
+          "lib/net461/Dapper.Contrib.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Dapper.Contrib.dll": {}
+        }
+      },
+      "HelperLibrary/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/HelperLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HelperLibrary.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "Dapper/2.0.35": {
+        "type": "package",
+        "compile": {
+          "lib/net461/Dapper.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Dapper.dll": {}
+        }
+      },
+      "Dapper.Contrib/2.0.35": {
+        "type": "package",
+        "dependencies": {
+          "Dapper": "2.0.35"
+        },
+        "frameworkAssemblies": [
+          "Microsoft.CSharp"
+        ],
+        "compile": {
+          "lib/net461/Dapper.Contrib.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Dapper.Contrib.dll": {}
+        }
+      },
+      "HelperLibrary/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/HelperLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HelperLibrary.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "Dapper/2.0.35": {
+        "type": "package",
+        "compile": {
+          "lib/net461/Dapper.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Dapper.dll": {}
+        }
+      },
+      "Dapper.Contrib/2.0.35": {
+        "type": "package",
+        "dependencies": {
+          "Dapper": "2.0.35"
+        },
+        "frameworkAssemblies": [
+          "Microsoft.CSharp"
+        ],
+        "compile": {
+          "lib/net461/Dapper.Contrib.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Dapper.Contrib.dll": {}
+        }
+      },
+      "HelperLibrary/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/HelperLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HelperLibrary.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "Dapper/2.0.35": {
+        "type": "package",
+        "compile": {
+          "lib/net461/Dapper.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Dapper.dll": {}
+        }
+      },
+      "Dapper.Contrib/2.0.35": {
+        "type": "package",
+        "dependencies": {
+          "Dapper": "2.0.35"
+        },
+        "frameworkAssemblies": [
+          "Microsoft.CSharp"
+        ],
+        "compile": {
+          "lib/net461/Dapper.Contrib.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Dapper.Contrib.dll": {}
+        }
+      },
+      "HelperLibrary/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/HelperLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HelperLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dapper/2.0.35": {
+      "sha512": "/xAgd8BO8EDnJ0sURWEV8LptHHvTKxoYiT63YUF2U/yWE2VyUCqR2jcrtEyNngT9Kjzppecz95UKiBla3PnR7g==",
+      "type": "package",
+      "path": "dapper/2.0.35",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dapper.2.0.35.nupkg.sha512",
+        "dapper.nuspec",
+        "lib/net461/Dapper.dll",
+        "lib/net461/Dapper.xml",
+        "lib/netstandard2.0/Dapper.dll",
+        "lib/netstandard2.0/Dapper.xml"
+      ]
+    },
+    "Dapper.Contrib/2.0.35": {
+      "sha512": "yVrsIV1OkdUZ8BGQbrO0EkthnPWtgs6TV2pfOtTC93G8y2BwZ0nnBJifJj+ICzN7c7COsBlVg6P6eYUwdwJj1Q==",
+      "type": "package",
+      "path": "dapper.contrib/2.0.35",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dapper.contrib.2.0.35.nupkg.sha512",
+        "dapper.contrib.nuspec",
+        "lib/net461/Dapper.Contrib.dll",
+        "lib/net461/Dapper.Contrib.xml",
+        "lib/netstandard2.0/Dapper.Contrib.dll",
+        "lib/netstandard2.0/Dapper.Contrib.xml"
+      ]
+    },
+    "HelperLibrary/1.0.0": {
+      "type": "project",
+      "path": "HelperLibrary/HelperLibrary.csproj",
+      "msbuildProject": "HelperLibrary/HelperLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Dapper >= 2.0.35",
+      "Dapper.Contrib >= 2.0.35",
+      "HelperLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\atip\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\projects\\Demo1_BasicDapper\\Demo1_BasicDapper.csproj",
+      "projectName": "Demo1_BasicDapper",
+      "projectPath": "C:\\projects\\Demo1_BasicDapper\\Demo1_BasicDapper.csproj",
+      "packagesPath": "C:\\Users\\atip\\.nuget\\packages\\",
+      "outputPath": "C:\\projects\\Demo1_BasicDapper\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\atip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {
+            "C:\\projects\\Demo1_BasicDapper\\HelperLibrary\\HelperLibrary.csproj": {
+              "projectPath": "C:\\projects\\Demo1_BasicDapper\\HelperLibrary\\HelperLibrary.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "Dapper": {
+            "target": "Package",
+            "version": "[2.0.35, )"
+          },
+          "Dapper.Contrib": {
+            "target": "Package",
+            "version": "[2.0.35, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

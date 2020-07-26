@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\projects\\Demo1_BasicDapper\\Demo1_BasicDapper.csproj": {}
+  },
+  "projects": {
+    "C:\\projects\\Demo1_BasicDapper\\Demo1_BasicDapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\Demo1_BasicDapper\\Demo1_BasicDapper.csproj",
+        "projectName": "Demo1_BasicDapper",
+        "projectPath": "C:\\projects\\Demo1_BasicDapper\\Demo1_BasicDapper.csproj",
+        "packagesPath": "C:\\Users\\atip\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\Demo1_BasicDapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\atip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\projects\\HelperLibrary\\HelperLibrary.csproj": {
+                "projectPath": "C:\\projects\\HelperLibrary\\HelperLibrary.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\projects\\HelperLibrary\\HelperLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\HelperLibrary\\HelperLibrary.csproj",
+        "projectName": "HelperLibrary",
+        "projectPath": "C:\\projects\\HelperLibrary\\HelperLibrary.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

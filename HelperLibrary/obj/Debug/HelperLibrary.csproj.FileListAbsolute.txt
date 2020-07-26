@@ -1,0 +1,16 @@
+C:\Users\Tim\Source\Repos\DapperDemos\HelperLibrary\bin\Debug\HelperLibrary.dll
+C:\Users\Tim\Source\Repos\DapperDemos\HelperLibrary\bin\Debug\HelperLibrary.pdb
+C:\Users\Tim\Source\Repos\DapperDemos\HelperLibrary\obj\Debug\HelperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Source\Repos\DapperDemos\HelperLibrary\obj\Debug\HelperLibrary.dll
+C:\Users\Tim\Source\Repos\DapperDemos\HelperLibrary\obj\Debug\HelperLibrary.pdb
+C:\Users\Tim\Source\Repos\DapperDemos\HelperLibrary\obj\Debug\HelperLibrary.csprojAssemblyReference.cache
+C:\projects\HelperLibrary\bin\Debug\HelperLibrary.dll
+C:\projects\HelperLibrary\bin\Debug\HelperLibrary.pdb
+C:\projects\HelperLibrary\obj\Debug\HelperLibrary.csproj.CoreCompileInputs.cache
+C:\projects\HelperLibrary\obj\Debug\HelperLibrary.dll
+C:\projects\HelperLibrary\obj\Debug\HelperLibrary.pdb
+C:\projects\Demo1_BasicDapper\HelperLibrary\bin\Debug\HelperLibrary.dll
+C:\projects\Demo1_BasicDapper\HelperLibrary\bin\Debug\HelperLibrary.pdb
+C:\projects\Demo1_BasicDapper\HelperLibrary\obj\Debug\HelperLibrary.csproj.CoreCompileInputs.cache
+C:\projects\Demo1_BasicDapper\HelperLibrary\obj\Debug\HelperLibrary.dll
+C:\projects\Demo1_BasicDapper\HelperLibrary\obj\Debug\HelperLibrary.pdb

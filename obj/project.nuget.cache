@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xE2vHWAXEKhgVm60N2l0BVkbn3uNTrvp/1kfp9YUfoZ/5SAEfm4MJPN8fsCk0A7yQtDpwngt7ivCiXtlkMhk5Q==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\Demo1_BasicDapper\\Demo1_BasicDapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atip\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
+    "C:\\Users\\atip\\.nuget\\packages\\dapper.contrib\\2.0.35\\dapper.contrib.2.0.35.nupkg.sha512"
+  ],
+  "logs": []
+}
